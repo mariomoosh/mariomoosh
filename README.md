@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mariomoosh
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Unity
-- 💞️ I’m looking to collaborate on any web based solution
+- 👋 Hi, I’m Mario Herrera
+- 👀 I’m interested in <h3>coding is life</h3>
+- 🌱 I’m currently learning AR/XR Technologies
+- 💞️ I’m looking to collaborate on any web based/VR/AR/XR solution
 - 📫 How to reach me mherrera820903@gmail.com
 
 <!---
